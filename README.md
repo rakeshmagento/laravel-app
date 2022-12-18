@@ -27,3 +27,14 @@ Open browser with `http://localhost` it will show default laravel page
 
 API Rest point `http://localhost/api/products`, this will list all the records.
 
+![Rest API](https://github.com/rakeshmagento/laravel-app/blob/main/rest-api.png)
+
+Rest API with category filter
+
+![Rest API](https://github.com/rakeshmagento/laravel-app/blob/main/category-filter.png)
+
+## PHPUnit Test
+
+SSH into application and execute `php artisan test` to execute test.
+
+![PHPUnit](https://github.com/rakeshmagento/laravel-app/blob/main/php-unit-test.png)
