@@ -1,0 +1,1 @@
+{"version":1,"defects":[],"times":{"Tests\\Unit\\ExampleTest::test_that_true_is_true":0.266,"Tests\\Unit\\ProductTest::test_api_end_point":3.537,"Tests\\Unit\\ProductTest::test_api_response_category_sneakers":0.287,"Tests\\Unit\\ProductTest::test_api_response_category_non_exists":0.274,"Tests\\Feature\\ExampleTest::test_the_application_returns_a_successful_response":0.551}}
