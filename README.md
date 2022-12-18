@@ -16,3 +16,14 @@ Stop containers `sh local.sh stop`
 Rebuild containers `sh local.sh rebuild`
 
 SSH into application `sh local.sh ssh`
+
+Step :two: Import DB with following command, make sure to give correct path of db dump
+
+`docker exec -i CONTAINER_ID mysql -udbuser -p#12#laravel laravel < db-import/laravel.sql`
+
+Open browser with `http://localhost` it will show default laravel page
+
+## API
+
+API Rest point `http://localhost/api/products`, this will list all the records.
+
